@@ -6,11 +6,11 @@
 ##### 1.安装Python (项目附带python-3.4.3.amd64.msi)  
 ```
 各种下一步(Next)安装，默认安装目录 C:\Python34(下面环境变量将按照此目录)  
-	设置环境变量:  
-		在Path添加以下两项:(win7系统请注意用 ; 隔开)  
-			C:\Python34  
-			C:\Python34\Scripts   
-	tip:环境变量设置成功后 在CMD输入python 会有版本显示  
+  设置环境变量:  
+    在Path添加以下两项:(win7系统请注意用 ; 隔开)  
+	C:\Python34  
+	C:\Python34\Scripts   
+  tip:环境变量设置成功后 在CMD输入python 会有版本显示  
 ```
 ##### 2.安装OpenSSL (项目附带Win64OpenSSL-1_0_2o.exe)  
 	无脑下一步(Next)直接安装  
