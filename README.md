@@ -1,6 +1,6 @@
 ### 利用Shadowsocks搭建校园网共享 v2
 	
-亦可用于Windows的shadowsocks服务端搭建  
+可用于Windows的shadowsocks服务端搭建  
 基于Python + OpenSSL  理论上更稳定  
 
 ##### 1.安装Python (项目附带python-3.4.3.amd64.msi)  
